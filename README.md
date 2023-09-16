@@ -26,13 +26,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 **Intake**
-In this step we will 
 
+- In this step we will outline the process of a ticket being created. First a user would navigate to the [end user osTicket URL](http://localhost/osTicket/ )
+- They would then click on Open a New Ticket
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+    <img width="666" alt="OPen a new ticket" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/bfe07b7f-9691-49fd-8f32-6c7f43740eee">
+
+- The user would enter their email address and their name.
+- They would then put in an Issue Summary, e.g. Entire Online Banking System is Down
+- The user would then provide more insight into the aformentioned issue, e.g. Customers have been calling to say that when they tried to access the online banking platform they are met with 404 error.
+
+    <img width="322" alt="Create Ticket stub" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/8bd905ab-59cc-460d-a4ff-08fbe00d5b98">
