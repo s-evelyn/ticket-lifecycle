@@ -78,7 +78,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
               
             <img width="50%" height ="50%" alt="Assign to Agent" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/b79b5939-c0b2-4bb1-a50d-62beee5cdf8a">
 
-          - Click Update.
+          - Click Assign to.
 
     - Department
         - Currently the department for the ticket is set to the Support department. Support would not be the most appropriate department therefore this must be changed. Click on Support to begin updating the department.
@@ -86,7 +86,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
             <img width="50%" height ="50%" alt="Setting department of ticket" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/bdbb8be3-8237-4bf3-8703-cf13716c93c9">
 
-        - Click Update.
+        - Click Transfer.
 
 - Notice that everything change that has been made to the ticket continue to be recorded.
 
@@ -101,7 +101,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 **Working the Issue**
 
+- Now that the ticket has been assigned the agent will work the issue. The agent chooses to coordinate with the Sys Admin team to bring the online banking back up.
+- The agent would also make a comment making note of the coordination that is occuring within their team.
 
-                
+    <img width="362" alt="work ticket" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/ae431564-2672-4e81-bfa7-cd297bfb81c3">
 
 
+--------------------------------------------------------------------------------------------------------------------------
+
+**Resolution**
+
+- After resolving the issue, the agent would making a comment indicating the source of the problem, and that it was fixed.
+  
+    <img width="370" alt="Resolve Ticket" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/a694da1a-a736-4d94-9003-1aba8ca4a9d6">
+
+- The agent would then change the ticket status to resolve and then click post reply, ultimately resolving the ticket. Note the ticket is nolonger is My Tickets after it has been resolved.
+
+    <img width="371" alt="Agent ticket area after resolved" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/332beb9f-5b55-4132-b60b-a2ea7886bf40">
+
+- To access resolved ticket click on the Ticket tab and then Closed, which will bring you to the resolved ticket, that is available to be viewed at anytime.
+
+    <img width="373" alt="Accessing a closed ticket for review" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/c2651210-261f-422f-a6e2-7f9031599f12">
+
+  
+-------------------------------------------------------------------------------------------------------------------------
+
+Congratulations you have successfully run through the lifecycle of a ticket on osTicket!
