@@ -76,14 +76,31 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - Assign To
         - Currently there nobody assigned to the ticket. Click on Unassigned, and select the current agent to be the one who works on the ticket.
               
-            <img width="365" alt="Assign to Agent" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/b79b5939-c0b2-4bb1-a50d-62beee5cdf8a">
+            <img width="50%" height ="50%" alt="Assign to Agent" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/b79b5939-c0b2-4bb1-a50d-62beee5cdf8a">
 
           - Click Update.
 
     - Department
         - Currently the department for the ticket is set to the Support department. Support would not be the most appropriate department therefore this must be changed. Click on Support to begin updating the department.
+        - Set the department to System Administrator.
 
-             
+            <img width="50%" height ="50%" alt="Setting department of ticket" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/bdbb8be3-8237-4bf3-8703-cf13716c93c9">
+
+        - Click Update.
+
+- Notice that everything change that has been made to the ticket continue to be recorded.
+
+    <img width="355" alt="osticket thread" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/4ab09b53-cab8-4cd5-a3c0-35f4296d76d8">
+
+- Observe what the ticket looks like after the updates, by clicking on My Ticket to go back to the list of tickets.
+
+    <img width="365" alt="Ticket after triaging" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/c9f334fd-50a3-45aa-ad54-79d027a4e4a1">
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+**Working the Issue**
+
 
                 
 
