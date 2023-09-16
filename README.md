@@ -112,11 +112,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 **Resolution**
 
-- After the issue has been resolved we need to resolve the ticket. The agent who was assigned the ticken will make a comment indicating the source of the problem, and how it was fixed.
+- After the issue has been resolved we need to resolve the ticket. The agent who was assigned the ticken will make a comment indicating the source of the problem, and how it was fixed. Then change the ticket status to resolve and click post reply, ultimately resolving the ticket.
   
     <img width="50%" height ="50%" alt="Resolve Ticket" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/a694da1a-a736-4d94-9003-1aba8ca4a9d6">
 
-- Then change the ticket status to resolve and click post reply, ultimately resolving the ticket. Note the ticket is no longer is My Tickets after it has been resolved.
+-  Note the ticket is no longer is My Tickets after it has been resolved.
 
     <img width="50%" height ="50%" alt="Agent ticket area after resolved" src="https://github.com/s-evelyn/ticket-lifecycle/assets/53543374/332beb9f-5b55-4132-b60b-a2ea7886bf40">
 
